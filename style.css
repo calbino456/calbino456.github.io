@@ -1,0 +1,298 @@
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+    
+    font-size: 16px;
+}
+
+
+#portada{
+    justify-content: center;
+}
+
+
+
+
+header{
+
+    background-color: rgb(0, 0, 0);
+    display: flex;
+   
+    height: 100px;
+    
+}
+.menunavlogo {
+    width: auto;
+    height: 110px;
+    padding: 15px 90px;
+    margin-right: -500px;
+    margin-top: -0px;
+    width: 10px;
+    
+    
+
+}
+.menu{
+
+    display: flex;
+    width: 100%;
+    gap: 70px;
+    margin-left: 700px;
+    margin-top: -20px;
+    color: aliceblue;
+}
+.menunav
+{
+    max-width: 1140px;
+    display: inline-table;
+    padding: 15px 0 0 0px;
+    
+
+    
+}
+.logo p{
+    display: flex;
+    color: aliceblue;
+    margin-top: -55px;
+    padding: 0px 150px;
+    
+}
+
+.logo img{
+    width: 150px;
+}
+
+.portada{
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 80px 0;
+    color: aliceblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.p-texto {
+    
+    padding: 50px 0 190px 0;
+    color:#ffffff
+}
+
+.p-imagen img{
+   width: 500px;
+   margin-left: 60px;
+}
+
+
+
+.p-texto h1 {
+   
+    font-size: 120px;
+    padding: 0px 70px;
+    margin-left: 30px;
+    font-family: 'Gochi Hand', sans-serif;                                            
+}
+
+.p-texto p   {
+    font-size: 30px;
+    padding:    50px;
+    text-align: center;
+    font-size: x-large;    
+}
+
+
+
+.p-texto button {
+  background-color: rgb(0, 0, 0);
+  padding: 50px;
+  padding: 15px 30px;
+  color: white;
+  border: none;
+  border-radius: 50px;
+  margin:2rem;
+  cursor: pointer; 
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#portada{
+  background-image: url(imagenes/Maskgroupa.png);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  padding: 0 0 40px 0; 
+}
+
+
+
+
+
+.portada{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 10px 10px;
+}
+
+
+.description h1{
+  padding: 25px;
+  font-size: x-large;
+
+}
+
+.description p{
+    padding: 25px;
+    height: ;
+    font-size: larger;
+}
+
+.description h2{
+    padding: 25px;
+    color: black;
+    font-size: 18px  ;
+  }
+
+.song{
+    color: aliceblue;
+}
+
+.description button{
+    color: rgb(0, 0, 0);
+    background-color: rgb(221, 164, 8);
+    background-size: 100;
+    border-radius: 15px;
+    padding: 5px 35px;
+    border: none;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#proyecto{
+    background-color: black;
+    color: #ffffff;
+}
+
+.lang{
+    padding: 10px;
+}
+.lang p{
+    padding: 20px;
+}
+
+.portada2 h1{
+    padding: 25px;
+ 
+}
+
+.portada2 p{
+    padding: 25px;
+    
+}
+.letra{
+    margin-top: 40px;
+}
+
+.letra h2 {
+   
+    margin-right: 740px;
+}
+.letra p{
+    font-size: 18px;
+    margin-left: 380px;
+    width: 400px;
+}
+
+.letra-2{
+   
+    margin-top: -225px;
+    margin-left: 900px;
+    width: 400px;
+   
+}
+
+.letra-3{
+    text-align: center;
+    display: flex;
+    padding: 0;
+    background-color: darkorange;
+    
+}
+
+.letra-3 h1{
+    margin: auto;
+    font-size: xx-large;
+}
+
+
+
+
+
+#creditos{
+   padding: 30px;
+    background-color: black;
+    color: #ffffff;
+}
+
+
+
+.list{
+    display: flex;
+    flex-direction: column;
+    line-height: 4;
+    
+}
+.acesoria{
+    margin: auto;
+    flex-direction: column;
+    display: flex;
+    margin-left: 300px;
+   
+    line-height: 4;
+    margin-top: -260px;   
+}
+
+.image-2{
+    background-repeat: no-repeat;
+    background-position: end;
+}
